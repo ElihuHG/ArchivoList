@@ -1,0 +1,7 @@
+{"nombre":"Leonel Elihu Hernandez Guerrero ","edad":"21","sexo":"Masculino"}
+{"nombre":"Sandra Garcia Ramirez ","edad":"21","sexo":"Femenino"}
+{"nombre":"Zaid Hernandez Garcia","edad":"22","sexo":"Masculino"}
+{"nombre":"Pablo Chacon Zarate","edad":"42","sexo":"Masculino"}
+{"nombre":"Julio Figeroa Martinez","edad":"17 ","sexo":"Masculino "}
+{"nombre":"Luisa Sanchez Monteferrer","edad":"25","sexo":"Femenino"}
+{"nombre":"Marta Juarez Garza","edad":"21","sexo":"Femenino"}
